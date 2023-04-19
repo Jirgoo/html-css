@@ -5,6 +5,7 @@
   font-size: 20px;
   text-align: center;
 }
+
 p {
   font-family: 'Courier New', Courier, monospace;
 }
@@ -12,8 +13,6 @@ p {
 .valitsin {
   font-size: 1.1em;
 }
-
-
 
 .korostus {
   color: red;
